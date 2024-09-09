@@ -1,6 +1,6 @@
-# APackOfTheClonesSupplemental
+# APackOfTheClonesAppendix
 
-Supplemental repository for the [APackOfTheClones](https://github.com/Qile0317/APackOfTheClones) JOSS paper
+Supplemental materials repository for the [APackOfTheClones](https://github.com/Qile0317/APackOfTheClones) JOSS paper.
 
 ## Repository structure
 
