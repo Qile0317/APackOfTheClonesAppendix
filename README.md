@@ -13,5 +13,9 @@ Supplemental materials repository for the R package [APackOfTheClones](https://g
 ├── README.md
 ├── data
 │   └── scRep_example_full.rds # the scRepertoire example object stored through git-lfs
-└── example-figure-generation.ipynb # Jupyter notebook to generate the figure in the paper
+├── example-figure-generation.ipynb # Jupyter notebook to generate the figure in the paper
+├── renv # relevant files for renv environments
+│   ├── activate.R
+│   └── settings.json
+└── renv.lock # renv lockfile
 ```
